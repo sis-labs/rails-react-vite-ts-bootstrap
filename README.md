@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This skeleton is based on the following articles
+* https://rubyroidlabs.com/blog/2023/11/how-to-use-ruby-on-rails-with-react-in-2024/
 
-Things you may want to cover:
 
-* Ruby version
+> Documentation will be completed later.
 
-* System dependencies
+## Prepare your env
+In order to run the application, you have to setup the local env.
+You can use a container based environment or a host based environment.
 
-* Configuration
+### Container based environment
+> TBC
 
-* Database creation
+### Host based environment
+We are using `asdf` to setup the local env.
+> TBC
 
-* Database initialization
+## Running the application
+In order to run the application, it is necessary to install some installation.
 
-* How to run the test suite
+```bash
+# we have to find out a better way
+npm install -g sass postcss postcss-cli autoprefixer
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
