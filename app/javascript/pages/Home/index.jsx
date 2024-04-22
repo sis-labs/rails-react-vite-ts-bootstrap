@@ -15,6 +15,11 @@ const Home = () => {
 			role="button">
 			View messages
 		    </Link>
+		    <Link to="/settings"
+			  className="btn btn-lg"
+			  role="button">
+			View Settings
+		    </Link>
 		</div>
 	    </div>
 	</div>
